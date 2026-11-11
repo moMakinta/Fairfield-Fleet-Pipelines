@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fairfield-weather"
+version = "1.0.0"
+description = "Daily weather risk pipeline for Fairfield Chemical Transportation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "psycopg2-binary>=2.9",
+    "tzdata; platform_system == 'Windows'",      # Windows has no built-in time zone database
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "ruff>=0.6", "psycopg[binary]>=3.1"]      # psycopg 3 is only needed to test against both drivers
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "tools", "tests"]
+addopts = "-ra"
+
+[tool.ruff]
+line-length = 130
+src = ["src", "tools", "tests", "dags"]
+
+[tool.ruff.lint]
+# E/F: errors and undefined names.  I: import order.  B: likely bugs.  UP: outdated syntax.
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["E501"]      # the tests have long SQL strings that read better on one line

@@ -1,0 +1,13 @@
+location_code,location_name,location_type,city,latitude,longitude,is_active
+JHB,City Deep Depot,Depot,Johannesburg,-26.23,28.08,true
+SAS,Sasolburg Plant,Plant,Sasolburg,-26.81,27.83,true
+SEC,Secunda Plant,Plant,Secunda,-26.52,29.20,true
+DUR,Durban Port Terminal,Port,Durban,-29.87,31.03,true
+RCB,Richards Bay Terminal,Port,Richards Bay,-28.80,32.05,true
+CPT,Cape Town Port Terminal,Port,Cape Town,-33.91,18.43,true
+GQE,Ngqura Terminal,Port,Gqeberha,-33.77,25.67,true
+ELS,East London Terminal,Port,East London,-33.03,27.91,true
+MPM,Maputo Terminal,Port,Maputo,-25.97,32.57,true
+BFN,Bloemfontein Depot,Depot,Bloemfontein,-29.12,26.21,true
+RUS,Rustenburg Depot,Depot,Rustenburg,-25.67,27.24,true
+PLK,Polokwane Depot,Depot,Polokwane,-23.90,29.45,true

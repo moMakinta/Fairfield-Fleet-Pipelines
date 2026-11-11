@@ -1,4 +1,0 @@
-Mode,RatePerTonneKm,MinimumCharge,FuelPricePerLitre
-Road,1.85,8000,21.5
-Rail,0.62,60000,21.5
-Sea,0.21,250000,14.0

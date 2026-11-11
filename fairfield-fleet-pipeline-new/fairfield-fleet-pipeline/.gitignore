@@ -1,0 +1,22 @@
+# connection string
+appsettings.json
+
+# C# build output
+bin/
+obj/
+.vs/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# made by the pipeline
+data/clean/
+data/rejects/
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log

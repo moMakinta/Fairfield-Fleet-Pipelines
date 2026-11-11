@@ -1,0 +1,9 @@
+rule_code,description,location_type,metric,comparison,threshold,severity
+PORT_WIND_HOLD,Gusts strong enough to suspend ship loading and berthing,Port,wind_gust_max_kmh,>=,60,High
+PORT_WIND_WATCH,Gusts that slow down port operations,Port,wind_gust_max_kmh,>=,45,Medium
+STRONG_WIND,Rollover risk for high-sided road tankers,,wind_gust_max_kmh,>=,75,High
+HEAVY_RAIN,Flooding risk on road and rail routes,,precipitation_mm,>=,50,High
+RAIN_WATCH,Wet roads: longer stopping distances for loaded tankers,,precipitation_mm,>=,20,Medium
+EXTREME_HEAT,Tank temperature limits for volatile cargo may be reached,,temp_max_c,>=,35,High
+HEAT_WATCH,Hot day: monitor tank temperatures,,temp_max_c,>=,32,Medium
+FROST,Possible ice on roads in the early morning,,temp_min_c,<=,0,Low
