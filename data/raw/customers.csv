@@ -1,0 +1,64 @@
+CustomerID,CustomerName,Industry,City,CreditTermsDays
+CU001,Table Bay Fertilisers,Agriculture,Polokwane,
+CU002,Tugela Refining,Petrochemical,Gqeberha,45
+CU003,Table Bay Pharma,Pharmaceutical,Gqeberha,30
+CU004,Highveld Pulp & Paper,Pulp & Paper,Polokwane,30
+CU005,Vaal Water Treatment,Water Treatment,Gqeberha,
+CU006,  KAROO FERTILISERS,Agriculture,Polokwane,60
+CU007,Namaqua Agri,Agriculture,Rustenburg,60
+CU008,Lowveld Mining Supplies,Mining,Rustenburg,30
+CU009,Vaal Mining Supplies,Mining,Durban,30
+CU010,Namaqua Paints,Paints & Coatings,Rustenburg,45
+CU011,Lowveld Paints,Paints & Coatings,Cape Town,
+CU012,  KAROO REFINING,Petrochemical,Gqeberha,30
+CU013,Drakensberg Water Treatment,Water Treatment,Durban,30
+CU014,Lowveld Pharma,Pharmaceutical,Polokwane,30
+CU015,Algoa Paints,Paints & Coatings,Polokwane,30
+CU016,Overberg Refining,Petrochemical,Polokwane,30
+CU017,Lowveld Fertilisers,Agriculture,Bloemfontein,30
+CU018,Umgeni Paints,Paints & Coatings,Maputo,30
+CU019,Kalahari Pulp & Paper,Pulp & Paper,Durban,30
+CU020,Table Bay Pulp & Paper,Pulp & Paper,Rustenburg,30
+CU021,Tugela Water Treatment,Water Treatment,Durban,30
+CU022,Zululand Pulp & Paper,Pulp & Paper,Cape Town,
+CU023,Karoo Pharma,Pharmaceutical,Gqeberha,45
+CU024,Table Bay Agri,Agriculture,Rustenburg,45
+CU025,Magalies Water Treatment,Water Treatment,Gqeberha,30
+CU026,Umgeni Refining,Petrochemical,Polokwane,
+CU027,Lowveld Agri,Agriculture,Bloemfontein,30
+CU028,Bushveld Plastics,Plastics,Johannesburg,45
+CU029,Kalahari Paints,Paints & Coatings,Polokwane,30
+CU030,Vaal Refining,Petrochemical,Johannesburg,30
+CU031,Vaal Pharma,Pharmaceutical,Maputo,30
+CU032,Drakensberg Pulp & Paper,Pulp & Paper,Cape Town,30
+CU033,Zululand Refining,Petrochemical,Maputo,30
+CU034,Bushveld Paints,Paints & Coatings,Johannesburg,45
+CU035,Vaal Agri,Agriculture,Bloemfontein,60
+CU036,Algoa Water Treatment,Water Treatment,Polokwane,30
+CU037,Magalies Paints,Paints & Coatings,Cape Town,30
+CU038,Limpopo Fertilisers,Agriculture,Durban,30
+CU039,Highveld Refining,Petrochemical,Cape Town,30
+CU040,Limpopo Plastics,Plastics,Cape Town,30
+CU041,Algoa Fertilisers,Agriculture,Maputo,30
+CU042,Table Bay Paints,Paints & Coatings,Cape Town,45
+CU043,Drakensberg Pharma,Pharmaceutical,Johannesburg,60
+CU044,Karoo Agri,Agriculture,Polokwane,45
+CU045,  UMGENI FERTILISERS,Agriculture,Cape Town,
+CU046,Kalahari Plastics,Plastics,Rustenburg,
+CU047,Karoo Water Treatment,Water Treatment,Polokwane,30
+CU048,Tugela Plastics,Plastics,Maputo,60
+CU049,  LIMPOPO PHARMA,Pharmaceutical,Johannesburg,60
+CU050,Algoa Pharma,Pharmaceutical,Bloemfontein,30
+CU051,  DRAKENSBERG MINING SUPPLIES,Mining,Rustenburg,30
+CU052,Overberg Mining Supplies,Mining,Rustenburg,
+CU053,Zululand Mining Supplies,Mining,Durban,
+CU054,Magalies Fertilisers,Agriculture,Durban,30
+CU055,  HIGHVELD AGRI,Agriculture,Polokwane,30
+CU056,Namaqua Water Treatment,Water Treatment,Polokwane,45
+CU057,  ALGOA REFINING,Petrochemical,Gqeberha,
+CU058,Umgeni Agri,Agriculture,Maputo,30
+CU059,Lowveld Pulp & Paper,Pulp & Paper,Gqeberha,45
+CU060,Bushveld Water Treatment,Water Treatment,Maputo,45
+CU024,Table Bay Agri,Agriculture,Rustenburg,45
+CU011,Lowveld Paints,Paints & Coatings,Cape Town,
+CU009,Vaal Mining Supplies,Mining,Durban,30

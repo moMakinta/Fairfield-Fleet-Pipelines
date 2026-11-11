@@ -1,0 +1,11 @@
+ProductCode,ProductName,HazardClass,HazardSurchargePct
+SUL,Sulphuric acid,8,15
+CAU,Caustic soda,8,12
+AMM,Ammonia,2,25
+MET,Methanol,3,18
+ETH,Ethanol,3,15
+CHL,Chlorine,2,30
+HCL,Hydrochloric acid,8,15
+SOL,Industrial solvents,3,18
+FER,Liquid fertiliser,9,5
+GLY,Glycol,None,0
