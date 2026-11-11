@@ -4,7 +4,7 @@ A scheduled data pipeline that tells Fairfield Chemical Transportation, every mo
 
 It pulls live data from a public weather API, is orchestrated with Apache Airflow, stores everything in PostgreSQL, and runs in Docker with one command.
 
-Author: _your name here_
+Author: Oregomoditse Makinta
 
 This is the companion to my `fairfield-fleet-pipeline` repository for the same fictional company. That project is a batch ETL over files. This one covers what it does not: a live source, a schedule, retries, incremental loads and backfills.
 
